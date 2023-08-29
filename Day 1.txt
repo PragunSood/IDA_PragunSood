@@ -1,0 +1,28 @@
+What is Data:
+-- Any type of information. 
+-- 3 types - Structured, unstructured, semi-structured
+
+Database (DBMS):
+-- Tables, Views, etc.
+-- Types of Keys - Primary Key, Unique Key, Foreign Key, Canditate Key, Super Key
+
+E-R Diagram:
+-- Entity Relationship diagram.
+
+Normalization:
+-- Break down into multiple tables according to 1NF, 2NF, etc.
+
+Denormalization:
+-- Redoing the process to join the tables.
+
+Case Study on E-R Diagram:
+-- Drawn on paper.
+
+Case Study on Normalization:
+-- Drawn on paper
+
+Dimension Modelling:
+-- Star and Snow Flake Schema.
+
+Slowly Changing Dimension (SCD): 
+-- SCD1, SCD2, SCD3
