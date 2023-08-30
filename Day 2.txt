@@ -1,0 +1,40 @@
+What is Big Data:
+-- Data that is huge in size
+-- It has volume, veracity, variety, velocity
+
+Tools used for BDA:
+-- Hadoop - Used for batch processing, distributed processing
+-- Spark - Used for stream processing, supports multiple languages
+
+Types of data frameworks:
+-- Data Warehousing - Fixed schema, ACID properties
+-- Data Lake - Flexible schema, Non-ACID properties
+-- Data Lakehouse - combination of the above 2
+
+Types of Cloud:
+-- Private Cloud - Access for org only
+-- Public Cloud - owned by cloud services
+-- Hybrid Cloud - combination of the 2
+
+Benefits of Cloud:
+-- High availability
+-- Scalability
+-- Fault Tolerance
+-- Elasticity
+-- Global Reach
+-- Agility
+-- Predictive cost cosiderations
+-- Security
+-- Disaster Recovery
+
+Types of expenditure:
+-- Capex - Capital expenditure
+-- opex - Operational expenditure
+
+Types of Cloud Services:
+-- IaaS - Infrastructure as a Service
+-- PaaS - Platform as a Service
+-- Saas - Software as a Service
+
+What is Resource Group:
+-- Container that holds all resources in one place.
