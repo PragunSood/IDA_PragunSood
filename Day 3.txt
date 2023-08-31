@@ -1,0 +1,18 @@
+Introduction to Azure SQL
+
+What is a View:
+-- used when access to whole database is not to be given to users.
+
+Types of SQL languages:
+-- DDL - Data Definition Language - create table, etc.
+-- DML - Data Manipulation Language - insert into table, etc.
+-- DCL - Data Control Language - grant access
+
+What is Schema:
+-- It is a logical representation of data. It shows the different tables and coloumns 
+and relationships between them without showing the data involved.
+
+Azure SQL:
+-- Practical excercise done on Azure SQL.
+-- Created database
+-- Executed queries to make tables and update data, etc.
